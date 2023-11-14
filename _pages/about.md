@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Computer Vision, Face Anti-Spoofing, Face Detection
+Research Interests
+------
+Computer Vision,  Landmark Detection,  Face Anti-Spoofing,  Face Detection
 
 Education
 ------
-Sep 2011－Jan 2015 NorthEastern University M.S.
+Sep 2015 － Jan 2018 NorthEastern University M.S.
 Computer Science and Technology Advisors：Prof. Jie Jia
 
 Work experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml]
+Researcher, Apr 2022 - Present, OPPO Research
+Researcher, Jan 2018 - Apr 2022, Canon Medical System China
