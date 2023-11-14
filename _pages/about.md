@@ -10,14 +10,14 @@ redirect_from:
 
 Research Interests
 ------
-Computer Vision,  Landmark Detection,  Face Anti-Spoofing,  Face Detection
+Computer Vision,  Landmark Detection,    Face Anti-Spoofing,  Face Detection
 
 Education
 ------
-Sep 2015 － Jan 2018 NorthEastern University M.S.
+Sep 2015 － Jan 2018 NorthEastern University M.S.  
 Computer Science and Technology Advisors：Prof. Jie Jia
 
 Work experience
 ------
-Researcher, Apr 2022 - Present, OPPO Research
+Researcher, Apr 2022 - Present, OPPO Research  
 Researcher, Jan 2018 - Apr 2022, Canon Medical System China
