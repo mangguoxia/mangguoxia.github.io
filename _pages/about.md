@@ -13,7 +13,7 @@ Research Interests
 Computer Vision,  Landmark Detection,  Face Anti-Spoofing,  Face Detection
 
 
-Work experience
+Work Experience
 ------
 - Researcher, Apr 2022 - Present, OPPO Research 
   - Face Detection, Facical Feature Detection, Face Attribute detection, Face Anti-Sppofing
