@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lixin Yan / Site Title"
+title                    : "Lixin Yan / HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "lixin yan"
   avatar           : "profile.png"
-  bio              : "闫立新"
+  bio              : "OPPO Research  yanlixin@oppo.com"
   location         : "China Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
