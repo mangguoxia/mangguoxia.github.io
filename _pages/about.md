@@ -25,4 +25,5 @@ Work Experience
 Education
 ------
 Sep 2015 － Jan 2018 NorthEastern University M.S.  
-Computer Science and Technology Advisors：Prof. Jie Jia
+Computer Science and Technology  
+Advisors：Prof. Jie Jia
