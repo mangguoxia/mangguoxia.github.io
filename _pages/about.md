@@ -10,23 +10,12 @@ redirect_from:
 
 Research Interests
 Computer Vision, Face Anti-Spoofing, Face Detection
-
-Education
-Sep 2011－Jan 2015 NorthEastern University M.S.
-Computer Science and Technology Advisors：Prof. Jie Jia
 ————————————————
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Sep 2011－Jan 2015 NorthEastern University M.S.
+Computer Science and Technology Advisors：Prof. Jie Jia
 
 Site-wide configuration
 ------
