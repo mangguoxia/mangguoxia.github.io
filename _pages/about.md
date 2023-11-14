@@ -9,15 +9,11 @@ redirect_from:
 ---
 
 Research Interests
-Computer Vision, Multimodal AI, Transfer Learning, Open Set Recognition, Face Anti-Spoofing, Face Forgery Detection
+Computer Vision, Face Anti-Spoofing, Face Detection
 
 Education
-Sep 2017－Jul 2021 University of Chinese Academy of Sciences Ph.D.
-Computer Application Technology Advisors：Prof. Xiangdong Zhou and Prof. Yong Feng
-Sep 2009－Jan 2012 Tianjin University M.S.
-Computer Science and Technology Advisors：Prof. Wenjun Wang
-Sep 20005－Jul 2009 Tianjin University B.A.
-Computer Science and Technology
+Sep 2011－Jan 2015 NorthEastern University M.S.
+Computer Science and Technology Advisors：Prof. Jie Jia
 ————————————————
 
 A data-driven personal website
